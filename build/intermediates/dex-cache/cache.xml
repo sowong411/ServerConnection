@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/onzzz/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/onzzz/Desktop/ServerConnection/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-5fc344614a91ae8689bef3a50a1d4b89df174abd.jar" />
+    </item>
+    <item
+        jar="/Users/onzzz/Desktop/ServerConnection/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/onzzz/Desktop/ServerConnection/app/build/intermediates/pre-dexed/debug/classes-33d71930280fa423fa133bf4ae393a0a03abce77.jar" />
+    </item>
+    <item
+        jar="/Users/onzzz/Desktop/ServerConnection/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/onzzz/Desktop/ServerConnection/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-615a088160d15ac875fbdc47e7f544fa1e358bbc.jar" />
+    </item>
+    <item
+        jar="/Users/onzzz/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/onzzz/Desktop/ServerConnection/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0-950fb0ad6f387de240ff7d755213aa8100d506a6.jar" />
+    </item>
+    <item
+        jar="/Users/onzzz/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/onzzz/Desktop/ServerConnection/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-0181a2dac38a6f61a2fe9124362ded8e3834e7ac.jar" />
+    </item>
+    <item
+        jar="/Users/onzzz/Desktop/ServerConnection/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/onzzz/Desktop/ServerConnection/app/build/intermediates/pre-dexed/debug/classes-38fede7245597539e77e33034daf1e3556732d0a.jar" />
+    </item>
+    <item
+        jar="/Users/onzzz/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/Users/onzzz/Desktop/ServerConnection/app/build/intermediates/pre-dexed/debug/parse-android-1.13.0-8b1046ead42678142b63cb0f0aa74d2e41ecfca3.jar" />
+    </item>
+
+</items>
